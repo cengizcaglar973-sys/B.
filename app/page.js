@@ -93,7 +93,7 @@ export default function KalpAI() {
       </div>
 
       <div style={{ marginTop: 20, fontSize: 12, color: "#555" }}>
-        BY: CENGİZ ÇAĞLAR SARI
+            ❤️💗❤️
       </div>
 
     </div>
